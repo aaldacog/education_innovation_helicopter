@@ -1,0 +1,17 @@
+Papel,Ala,Cuerpo,Clip,TiempoVuelo,tv
+Ligero,Larga,Largo,No,6.2,tvL
+Ligero,Larga,Largo,Si,5.38333333333333,tvL
+Ligero,Larga,Corto,No,6.23333333333333,tvL
+Ligero,Larga,Corto,Si,5.33333333333333,tvL
+Ligero,Corta,Largo,No,5.42333333333333,tvL
+Ligero,Corta,Largo,Si,5.31666666666667,tvL
+Ligero,Corta,Corto,No,5.99666666666667,tvL
+Ligero,Corta,Corto,Si,4.43666666666667,tvL
+Pesado,Larga,Largo,No,3.23333333333333,tvM
+Pesado,Larga,Largo,Si,3.5,tvM
+Pesado,Larga,Corto,No,3.44333333333333,tvM
+Pesado,Larga,Corto,Si,3.71333333333333,tvM
+Pesado,Corta,Largo,No,2.95,tvC
+Pesado,Corta,Largo,Si,2.9,tvC
+Pesado,Corta,Corto,No,3.07,tvM
+Pesado,Corta,Corto,Si,3.23666666666667,tvM
